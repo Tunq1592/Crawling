@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[50]:
-
 
 import requests
 from bs4 import BeautifulSoup
@@ -116,25 +114,4 @@ root.mainloop()
 #drop = tk.OptionMenu(lower_frame, var1, *list_coinname, command= coin_check(var1.get()))
 #drop.grid()
 #drop.place(relx = 0.735, rely = 0.6, relwidth= 0.2, relheight= 0.2)
-
-
-              
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
